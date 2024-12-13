@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Skole\\SideProjects\\HangmanGame\\HangMan\\HangmanGame\\HangMan\\Hangman.csproj",
+      "projectUniqueName": "C:\\Skole\\SideProjects\\HangMan\\Hangman.csproj",
       "projectName": "Hangman",
-      "projectPath": "C:\\Skole\\SideProjects\\HangmanGame\\HangMan\\HangmanGame\\HangMan\\Hangman.csproj",
+      "projectPath": "C:\\Skole\\SideProjects\\HangMan\\Hangman.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Skole\\SideProjects\\HangmanGame\\HangMan\\HangmanGame\\HangMan\\obj\\",
+      "outputPath": "C:\\Skole\\SideProjects\\HangMan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",

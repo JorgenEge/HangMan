@@ -43,3 +43,17 @@ C:\Skole\SideProjects\HangmanGame\HangMan\HangmanGame\HangMan\obj\Debug\net8.0\r
 C:\Skole\SideProjects\HangmanGame\HangMan\HangmanGame\HangMan\obj\Debug\net8.0\Hangman.pdb
 C:\Skole\SideProjects\HangmanGame\HangMan\HangmanGame\HangMan\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
 C:\Skole\SideProjects\HangmanGame\HangMan\HangmanGame\HangMan\obj\Debug\net8.0\ref\Hangman.dll
+C:\Skole\SideProjects\HangMan\bin\Debug\net8.0\Hangman.exe
+C:\Skole\SideProjects\HangMan\bin\Debug\net8.0\Hangman.deps.json
+C:\Skole\SideProjects\HangMan\bin\Debug\net8.0\Hangman.runtimeconfig.json
+C:\Skole\SideProjects\HangMan\bin\Debug\net8.0\Hangman.dll
+C:\Skole\SideProjects\HangMan\bin\Debug\net8.0\Hangman.pdb
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\Hangman.AssemblyInfoInputs.cache
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\Hangman.AssemblyInfo.cs
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\Hangman.dll
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\refint\Hangman.dll
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\Hangman.pdb
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\Hangman.genruntimeconfig.cache
+C:\Skole\SideProjects\HangMan\obj\Debug\net8.0\ref\Hangman.dll
