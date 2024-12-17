@@ -19,7 +19,30 @@ class Program
 
     static void PlayGame()
     {
-        string word = "hello world!";
+        List<string> words = new List<string> { "hello world", "programming", "hangman", "dotnet", "github" };
+
+        Console.WriteLine("Select a word by entering the corresponding number:");
+        for (int i = 0; i < words.Count; i++)
+        {
+            Console.WriteLine($"{i + 1}. Word {i+1}");
+        }
+
+        int wordIndex;
+        while (true)
+        {
+            string input = Console.ReadLine();
+            if (int.TryParse(input, out wordIndex) && wordIndex > 0 && wordIndex <= words.Count)
+            {
+                wordIndex--; // Adjust for zero-based index
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter a number corresponding to a word in the list.");
+            }
+        }
+
+        string word = words[wordIndex];
 
         int maxLives = 7;
         int currentLives = maxLives;
